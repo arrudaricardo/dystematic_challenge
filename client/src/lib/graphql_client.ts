@@ -3,7 +3,8 @@ import { onError } from "@apollo/client/link/error";
 
 import { createHttpLink } from "apollo-link-http";
 
-const httpLink = createHttpLink({ uri: "http://localhost:4000/graphql" });
+const port = process.env.PORT || 4000;
+const httpLink = createHttpLink({ uri: `http://localhost:${port}/graphql` });
 
 const errorLink = onError(({ graphQLErrors, networkError }) => {
   if (graphQLErrors)
