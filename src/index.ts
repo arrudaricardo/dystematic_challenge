@@ -11,17 +11,15 @@ const app = express();
 app.use(cors());
 server.applyMiddleware({ app });
 
-
-app.use(express.static(`${process.cwd()}/client/dist/`))
+app.use(express.static(`${process.cwd()}/client/dist/`));
 app.get("/", (req, res) => {
-  res.sendFile(resolve(process.cwd(), 'dist/', 'index.html'));
+  res.sendFile(resolve(process.cwd(), "dist/", "index.html"));
 });
 
 const port = process.env.PORT || 4000;
 app.listen({ port }, () => {
-  console.log(`Server running at localhost:${port}`);
-  console.log(__dirname, process.cwd())
+  console.log(`Server running at: http://localhost:${port}`);
   console.log(
-    `Graphql endpoint running localhost:${port}${server.graphqlPath}`
+    `Graphql endpoint running at: http://localhost:${port}${server.graphqlPath}`
   );
 });
