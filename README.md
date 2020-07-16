@@ -30,17 +30,23 @@ npm run build
 npm start
 ```
 
+Access:
+[http://localhost:4000/](http://localhost:4000/)
+
 ### Development
 
-Frontend dev server (path: client/)
+Frontend dev server (path: **client/**)
 ```bash
 cd client
 npm i
 npm start
 ```
 
-Backend dev server (path: /)
+Backend dev server (path: **/**)
 ```bash
 npm i
 npm run dev
 ```
+
+Access:
+[http://localhost:4000/](http://localhost:4000/)
