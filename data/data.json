@@ -1,0 +1,1486 @@
+[
+  {
+    "ticker": "000063.SZ",
+    "securityName": "ZTE Corporation",
+    "sector": "Technology",
+    "country": "China",
+    "trend": 0.82
+  },
+  {
+    "ticker": "000651.SZ",
+    "securityName": "Gree Electric Appliances",
+    "sector": "Consumer Cyclicals",
+    "country": "China",
+    "trend": 0.16
+  },
+  {
+    "ticker": "000858.SZ",
+    "securityName": "Wuliangye Yibin",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "China",
+    "trend": 0.17
+  },
+  {
+    "ticker": "002415.SZ",
+    "securityName": "Hangzou Hikvision Digital Technology",
+    "sector": "Technology",
+    "country": "China",
+    "trend": 0.66
+  },
+  {
+    "ticker": "005380.KS",
+    "securityName": "Hyunday Motors",
+    "sector": "Consumer Cyclicals",
+    "country": "South Korea",
+    "trend": 0.08
+  },
+  {
+    "ticker": "005930.KS",
+    "securityName": "Samsung Electronics",
+    "sector": "Technology",
+    "country": "South Korea",
+    "trend": 0.43
+  },
+  {
+    "ticker": "012330.KS",
+    "securityName": "Hyunday Mobis",
+    "sector": "Consumer Cyclicals",
+    "country": "South Korea",
+    "trend": -0.24
+  },
+  {
+    "ticker": "02826K.KS",
+    "securityName": "Samsung C&T",
+    "sector": "Industrials",
+    "country": "South Korea",
+    "trend": 0.45
+  },
+  {
+    "ticker": "1605.T",
+    "securityName": "Inpex Corporation",
+    "sector": "Energy",
+    "country": "Japan",
+    "trend": 0.1
+  },
+  {
+    "ticker": "2502.T",
+    "securityName": "Asahi Group Holdings",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "Japan",
+    "trend": -0.24
+  },
+  {
+    "ticker": "2503.T",
+    "securityName": "Kirin Holdings Company",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "Japan",
+    "trend": -0.32
+  },
+  {
+    "ticker": "2587.T",
+    "securityName": "Suntory Beverage & Food",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "Japan",
+    "trend": -0.08
+  },
+  {
+    "ticker": "2914.T",
+    "securityName": "Japan Tobacco Inc",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "Japan",
+    "trend": -0.28
+  },
+  {
+    "ticker": "3382.T",
+    "securityName": "Seven & I Holdings Company",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "Japan",
+    "trend": -0.21
+  },
+  {
+    "ticker": "3407.T",
+    "securityName": "Asahi Kasei Group",
+    "sector": "Basic Materials",
+    "country": "Japan",
+    "trend": -0.55
+  },
+  {
+    "ticker": "3659.T",
+    "securityName": "Nexon Company",
+    "sector": "Technology",
+    "country": "Japan",
+    "trend": 0.72
+  },
+  {
+    "ticker": "4005.T",
+    "securityName": "Sumitomo Chemical Company",
+    "sector": "Basic Materials",
+    "country": "Japan",
+    "trend": -0.41
+  },
+  {
+    "ticker": "4063.T",
+    "securityName": "Shin-Etsu Chemical Company",
+    "sector": "Basic Materials",
+    "country": "Japan",
+    "trend": 0.55
+  },
+  {
+    "ticker": "4091.T",
+    "securityName": "Taiyo Nippon Sanso Corporation",
+    "sector": "Basic Materials",
+    "country": "Japan",
+    "trend": -0.28
+  },
+  {
+    "ticker": "4188.T",
+    "securityName": "Mitsubishi Chemical Holdings",
+    "sector": "Basic Materials",
+    "country": "Japan",
+    "trend": -0.06
+  },
+  {
+    "ticker": "4452.T",
+    "securityName": "Kao Corporation",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "Japan",
+    "trend": -0.1
+  },
+  {
+    "ticker": "4502.T",
+    "securityName": "Takeda Pharmaceutical Company",
+    "sector": "Healthcare",
+    "country": "Japan",
+    "trend": 0.03
+  },
+  {
+    "ticker": "4503.T",
+    "securityName": "Astellas Pharma",
+    "sector": "Healthcare",
+    "country": "Japan",
+    "trend": 0.31
+  },
+  {
+    "ticker": "4507.T",
+    "securityName": "Shionogi & Company",
+    "sector": "Healthcare",
+    "country": "Japan",
+    "trend": 0.01
+  },
+  {
+    "ticker": "4519.T",
+    "securityName": "Chugai Pharmaceutical Company",
+    "sector": "Healthcare",
+    "country": "Japan",
+    "trend": 0.7
+  },
+  {
+    "ticker": "4523.T",
+    "securityName": "Eisai Company",
+    "sector": "Healthcare",
+    "country": "Japan",
+    "trend": 0.6
+  },
+  {
+    "ticker": "4543.T",
+    "securityName": "Terumo Corporation",
+    "sector": "Healthcare",
+    "country": "Japan",
+    "trend": 0.05
+  },
+  {
+    "ticker": "4578.T",
+    "securityName": "Otsuka Holdings Company",
+    "sector": "Healthcare",
+    "country": "Japan",
+    "trend": -0.16
+  },
+  {
+    "ticker": "4612.T",
+    "securityName": "Nippon Paint Holdings Company",
+    "sector": "Basic Materials",
+    "country": "Japan",
+    "trend": -0.24
+  },
+  {
+    "ticker": "4661.T",
+    "securityName": "Oriental Land Company",
+    "sector": "Consumer Cyclicals",
+    "country": "Japan",
+    "trend": -0.43
+  },
+  {
+    "ticker": "4755.T",
+    "securityName": "Rakuten Inc",
+    "sector": "Technology",
+    "country": "Japan",
+    "trend": 0.11
+  },
+  {
+    "ticker": "4901.T",
+    "securityName": "Fujifilm Holdings Corporation",
+    "sector": "Technology",
+    "country": "Japan",
+    "trend": 0.16
+  },
+  {
+    "ticker": "4911.T",
+    "securityName": "Shiseido Company",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "Japan",
+    "trend": -0.53
+  },
+  {
+    "ticker": "5019.T",
+    "securityName": "Indemitsu Kosan Company",
+    "sector": "Energy",
+    "country": "Japan",
+    "trend": -0.16
+  },
+  {
+    "ticker": "5020.T",
+    "securityName": "JX Holdings Inc",
+    "sector": "Energy",
+    "country": "Japan",
+    "trend": -0.17
+  },
+  {
+    "ticker": "5021.T",
+    "securityName": "Cosmo Energy Holdings",
+    "sector": "Energy",
+    "country": "Japan",
+    "trend": -0.53
+  },
+  {
+    "ticker": "5108.T",
+    "securityName": "Bridgestone Corporation",
+    "sector": "Consumer Cyclicals",
+    "country": "Japan",
+    "trend": -0.21
+  },
+  {
+    "ticker": "5401.T",
+    "securityName": "Nippon Steel Corporation",
+    "sector": "Basic Materials",
+    "country": "Japan",
+    "trend": -0.75
+  },
+  {
+    "ticker": "5411.T",
+    "securityName": "JFE Holdings Inc",
+    "sector": "Basic Materials",
+    "country": "Japan",
+    "trend": -0.88
+  },
+  {
+    "ticker": "5713.T",
+    "securityName": "Sumitomo Metal Mining Company",
+    "sector": "Basic Materials",
+    "country": "Japan",
+    "trend": -0.35
+  },
+  {
+    "ticker": "600011.SS",
+    "securityName": "Huaneng Power International",
+    "sector": "Utilities",
+    "country": "China",
+    "trend": -0.57
+  },
+  {
+    "ticker": "600019.SS",
+    "securityName": "Baoshan Iron & Steel",
+    "sector": "Basic Materials",
+    "country": "China",
+    "trend": -0.34
+  },
+  {
+    "ticker": "600050.SS",
+    "securityName": "China United Network Communications",
+    "sector": "Telecommunications",
+    "country": "China",
+    "trend": -0.18
+  },
+  {
+    "ticker": "600104.SS",
+    "securityName": "SAIC Motor Corporation",
+    "sector": "Consumer Cyclicals",
+    "country": "China",
+    "trend": 0.03
+  },
+  {
+    "ticker": "600276.SS",
+    "securityName": "Jiangsu Hengrui Medicine",
+    "sector": "Healthcare",
+    "country": "China",
+    "trend": 0.34
+  },
+  {
+    "ticker": "600309.SS",
+    "securityName": "Wanhua Chemical Group",
+    "sector": "Basic Materials",
+    "country": "China",
+    "trend": 0.25
+  },
+  {
+    "ticker": "600332.SS",
+    "securityName": "Guangzhou Bayunshan Pharmaceutical Holdings",
+    "sector": "Healthcare",
+    "country": "China",
+    "trend": 0.08
+  },
+  {
+    "ticker": "600519.SS",
+    "securityName": "Kweichow Moutai",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "China",
+    "trend": 0.1
+  },
+  {
+    "ticker": "600585.SS",
+    "securityName": "Anhui Conch Cement Company",
+    "sector": "Basic Materials",
+    "country": "China",
+    "trend": 0.48
+  },
+  {
+    "ticker": "600900.SS",
+    "securityName": "China Yangtze Power Company",
+    "sector": "Utilities",
+    "country": "China",
+    "trend": -0.09
+  },
+  {
+    "ticker": "601088.SS",
+    "securityName": "China Shenhua Energy Company",
+    "sector": "Energy",
+    "country": "China",
+    "trend": -0.31
+  },
+  {
+    "ticker": "601288.SS",
+    "securityName": "Agricultural Bank of China",
+    "sector": "Financials",
+    "country": "China",
+    "trend": -0.11
+  },
+  {
+    "ticker": "601318.SS",
+    "securityName": "Ping An Insurance Group",
+    "sector": "Financials",
+    "country": "China",
+    "trend": -0.1
+  },
+  {
+    "ticker": "601360.SS",
+    "securityName": "360 Security Technology",
+    "sector": "Technology",
+    "country": "China",
+    "trend": 0.62
+  },
+  {
+    "ticker": "601398.SS",
+    "securityName": "Industrial and Commercial Bank of China",
+    "sector": "Financials",
+    "country": "China",
+    "trend": -0.16
+  },
+  {
+    "ticker": "601668.SS",
+    "securityName": "China State Construction Engineering",
+    "sector": "Industrials",
+    "country": "China",
+    "trend": -0.11
+  },
+  {
+    "ticker": "601766.SS",
+    "securityName": "CRRC Corporation",
+    "sector": "Industrials",
+    "country": "China",
+    "trend": -0.41
+  },
+  {
+    "ticker": "601800.SS",
+    "securityName": "China Communications Construction",
+    "sector": "Industrials",
+    "country": "China",
+    "trend": -0.53
+  },
+  {
+    "ticker": "601857.SS",
+    "securityName": "Petrochina Company",
+    "sector": "Energy",
+    "country": "China",
+    "trend": -0.43
+  },
+  {
+    "ticker": "601939.SS",
+    "securityName": "China Construction Bank Corporation",
+    "sector": "Financials",
+    "country": "China",
+    "trend": -0.18
+  },
+  {
+    "ticker": "601985.SS",
+    "securityName": "China National Nuclear Power",
+    "sector": "Utilities",
+    "country": "China",
+    "trend": -0.28
+  },
+  {
+    "ticker": "601988.SS",
+    "securityName": "Bank of China",
+    "sector": "Financials",
+    "country": "China",
+    "trend": -0.02
+  },
+  {
+    "ticker": "603288.SS",
+    "securityName": "Foshan Haitan Flavouring and Food Company",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "China",
+    "trend": -0.01
+  },
+  {
+    "ticker": "6098.T",
+    "securityName": "Recruit Holdings",
+    "sector": "Industrials",
+    "country": "Japan",
+    "trend": 0.51
+  },
+  {
+    "ticker": "6178.T",
+    "securityName": "Japan Post Holdings Company",
+    "sector": "Financials",
+    "country": "Japan",
+    "trend": -0.2
+  },
+  {
+    "ticker": "6367.T",
+    "securityName": "Daikin Industries",
+    "sector": "Industrials",
+    "country": "Japan",
+    "trend": 0.13
+  },
+  {
+    "ticker": "6501.T",
+    "securityName": "Hitachi",
+    "sector": "Industrials",
+    "country": "Japan",
+    "trend": 0.02
+  },
+  {
+    "ticker": "6503.T",
+    "securityName": "Mitsubishi Electric",
+    "sector": "Industrials",
+    "country": "Japan",
+    "trend": 0.14
+  },
+  {
+    "ticker": "6594.T",
+    "securityName": "Nidec Corporation",
+    "sector": "Industrials",
+    "country": "Japan",
+    "trend": -0.25
+  },
+  {
+    "ticker": "6702.T",
+    "securityName": "Fujitsu",
+    "sector": "Technology",
+    "country": "Japan",
+    "trend": 0.67
+  },
+  {
+    "ticker": "6758.T",
+    "securityName": "Sony Corporation",
+    "sector": "Technology",
+    "country": "Japan",
+    "trend": 0.32
+  },
+  {
+    "ticker": "6861.T",
+    "securityName": "Keyence Corporation",
+    "sector": "Industrials",
+    "country": "Japan",
+    "trend": -0.52
+  },
+  {
+    "ticker": "6902.T",
+    "securityName": "Denso Corporation",
+    "sector": "Consumer Cyclicals",
+    "country": "Japan",
+    "trend": -0.27
+  },
+  {
+    "ticker": "6954.T",
+    "securityName": "Fanuc Corporation",
+    "sector": "Industrials",
+    "country": "Japan",
+    "trend": -0.02
+  },
+  {
+    "ticker": "6988.T",
+    "securityName": "Nitto Denko Corporation",
+    "sector": "Basic Materials",
+    "country": "Japan",
+    "trend": 0.01
+  },
+  {
+    "ticker": "7201.T",
+    "securityName": "Nissan Motor Company",
+    "sector": "Consumer Cyclicals",
+    "country": "Japan",
+    "trend": -0.86
+  },
+  {
+    "ticker": "7203.T",
+    "securityName": "Toyota Motor Corporation",
+    "sector": "Consumer Cyclicals",
+    "country": "Japan",
+    "trend": 0.2
+  },
+  {
+    "ticker": "7267.T",
+    "securityName": "Honda Motor Company",
+    "sector": "Consumer Cyclicals",
+    "country": "Japan",
+    "trend": 0.12
+  },
+  {
+    "ticker": "7269.T",
+    "securityName": "Suzuki Motor Company",
+    "sector": "Consumer Cyclicals",
+    "country": "Japan",
+    "trend": 0.02
+  },
+  {
+    "ticker": "7741.T",
+    "securityName": "Hoya Corporation",
+    "sector": "Healthcare",
+    "country": "Japan",
+    "trend": 0.24
+  },
+  {
+    "ticker": "7751.T",
+    "securityName": "Canon Inc",
+    "sector": "Technology",
+    "country": "Japan",
+    "trend": -0.32
+  },
+  {
+    "ticker": "7974.T",
+    "securityName": "Nintendo Company",
+    "sector": "Consumer Cyclicals",
+    "country": "Japan",
+    "trend": -0.1
+  },
+  {
+    "ticker": "8028.T",
+    "securityName": "Familymart Uny Holdings",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "Japan",
+    "trend": -0.08
+  },
+  {
+    "ticker": "8031.T",
+    "securityName": "Mitsui & Co",
+    "sector": "Industrials",
+    "country": "Japan",
+    "trend": 0.13
+  },
+  {
+    "ticker": "8035.T",
+    "securityName": "Tokyo Electron",
+    "sector": "Technology",
+    "country": "Japan",
+    "trend": 0.41
+  },
+  {
+    "ticker": "8058.T",
+    "securityName": "Mitsubishi Corporation",
+    "sector": "Industrials",
+    "country": "Japan",
+    "trend": 0.01
+  },
+  {
+    "ticker": "8113.T",
+    "securityName": "Unicharm Corporation",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "Japan",
+    "trend": 0.31
+  },
+  {
+    "ticker": "8267.T",
+    "securityName": "Aeon Company",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "Japan",
+    "trend": 0.19
+  },
+  {
+    "ticker": "8306.T",
+    "securityName": "Mitsubishi UFJ Financial Group",
+    "sector": "Financials",
+    "country": "Japan",
+    "trend": 0.01
+  },
+  {
+    "ticker": "8316.T",
+    "securityName": "Sumitomo Misui Financial Group",
+    "sector": "Financials",
+    "country": "Japan",
+    "trend": -0.15
+  },
+  {
+    "ticker": "8411.T",
+    "securityName": "Mizuho Financial Group",
+    "sector": "Financials",
+    "country": "Japan",
+    "trend": -0.16
+  },
+  {
+    "ticker": "8725.T",
+    "securityName": "MS&AD Insurance Group Holdings",
+    "sector": "Financials",
+    "country": "Japan",
+    "trend": 0.19
+  },
+  {
+    "ticker": "8766.T",
+    "securityName": "Tokio Marine Holdings",
+    "sector": "Financials",
+    "country": "Japan",
+    "trend": 0.25
+  },
+  {
+    "ticker": "8801.T",
+    "securityName": "Mitsui Fudosan",
+    "sector": "Financials",
+    "country": "Japan",
+    "trend": 0.26
+  },
+  {
+    "ticker": "8802.T",
+    "securityName": "Mitsubishi Estate Company",
+    "sector": "Financials",
+    "country": "Japan",
+    "trend": 0.18
+  },
+  {
+    "ticker": "9020.T",
+    "securityName": "East Japan Railway",
+    "sector": "Industrials",
+    "country": "Japan",
+    "trend": -0.42
+  },
+  {
+    "ticker": "9022.T",
+    "securityName": "Central Japan Railway",
+    "sector": "Industrials",
+    "country": "Japan",
+    "trend": -0.31
+  },
+  {
+    "ticker": "9432.T",
+    "securityName": "Nippon Tel & Tel Corporation",
+    "sector": "Telecommunications",
+    "country": "Japan",
+    "trend": -0.76
+  },
+  {
+    "ticker": "9433.T",
+    "securityName": "KDDI Corporation",
+    "sector": "Telecommunications",
+    "country": "Japan",
+    "trend": 0.38
+  },
+  {
+    "ticker": "9437.T",
+    "securityName": "NTT Docomo Inc",
+    "sector": "Telecommunications",
+    "country": "Japan",
+    "trend": 0.28
+  },
+  {
+    "ticker": "9501.T",
+    "securityName": "Tokyo Electric Power Company",
+    "sector": "Utilities",
+    "country": "Japan",
+    "trend": -0.46
+  },
+  {
+    "ticker": "9502.T",
+    "securityName": "Chubu Electric Power Company",
+    "sector": "Utilities",
+    "country": "Japan",
+    "trend": -0.07
+  },
+  {
+    "ticker": "9503.T",
+    "securityName": "Kansai Electric Power Company",
+    "sector": "Utilities",
+    "country": "Japan",
+    "trend": -0.06
+  },
+  {
+    "ticker": "9531.T",
+    "securityName": "Tokyio Gas Company",
+    "sector": "Utilities",
+    "country": "Japan",
+    "trend": -0.43
+  },
+  {
+    "ticker": "9532.T",
+    "securityName": "Osaka Gas Company",
+    "sector": "Utilities",
+    "country": "Japan",
+    "trend": -0.31
+  },
+  {
+    "ticker": "9613.T",
+    "securityName": "NTT Data Corporation",
+    "sector": "Technology",
+    "country": "Japan",
+    "trend": 0.01
+  },
+  {
+    "ticker": "9778.T",
+    "securityName": "Subaru Corporation",
+    "sector": "Consumer Cyclicals",
+    "country": "Japan",
+    "trend": 0.4
+  },
+  {
+    "ticker": "9983.T",
+    "securityName": "Fast Retailing Company",
+    "sector": "Consumer Cyclicals",
+    "country": "Japan",
+    "trend": -0.22
+  },
+  {
+    "ticker": "9984.T",
+    "securityName": "Softbank Group Corporation",
+    "sector": "Telecommunications",
+    "country": "Japan",
+    "trend": 0.31
+  },
+  {
+    "ticker": "AAPL",
+    "securityName": "Apple Inc",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.58
+  },
+  {
+    "ticker": "ABBV",
+    "securityName": "Abbvie Inc",
+    "sector": "Healthcare",
+    "country": "United States",
+    "trend": 0.5
+  },
+  {
+    "ticker": "ABEV",
+    "securityName": "AMBEV",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "United States",
+    "trend": -0.78
+  },
+  {
+    "ticker": "ABT",
+    "securityName": "Aboot Laboratories",
+    "sector": "Healthcare",
+    "country": "United States",
+    "trend": 0.2
+  },
+  {
+    "ticker": "ACN",
+    "securityName": "Accenture",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.33
+  },
+  {
+    "ticker": "ADBE",
+    "securityName": "Adobe Inc",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.67
+  },
+  {
+    "ticker": "AMZN",
+    "securityName": "Amazon",
+    "sector": "Consumer Cyclicals",
+    "country": "United States",
+    "trend": 0.61
+  },
+  {
+    "ticker": "AUTO.L",
+    "securityName": "Auto Trader Group",
+    "sector": "Technology",
+    "country": "United Kingdom",
+    "trend": 0.07
+  },
+  {
+    "ticker": "AVGO",
+    "securityName": "Broadcom Inc",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.15
+  },
+  {
+    "ticker": "AVV.L",
+    "securityName": "Aveva Group",
+    "sector": "Technology",
+    "country": "United Kingdom",
+    "trend": 0.34
+  },
+  {
+    "ticker": "AXP",
+    "securityName": "American Express",
+    "sector": "Financials",
+    "country": "United States",
+    "trend": 0.4
+  },
+  {
+    "ticker": "AZN.L",
+    "securityName": "Astrazeneca PLC",
+    "sector": "Healthcare",
+    "country": "United Kingdom",
+    "trend": 0.23
+  },
+  {
+    "ticker": "BA",
+    "securityName": "Boeing Company",
+    "sector": "Industrials",
+    "country": "United States",
+    "trend": -0.12
+  },
+  {
+    "ticker": "BABA",
+    "securityName": "Alibaba Group Holdings",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.29
+  },
+  {
+    "ticker": "BAC",
+    "securityName": "Bank of America Corporation",
+    "sector": "Financials",
+    "country": "United States",
+    "trend": 0.3
+  },
+  {
+    "ticker": "BARC.L",
+    "securityName": "Barclays PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "trend": 0.28
+  },
+  {
+    "ticker": "BHP",
+    "securityName": "BHP Group",
+    "sector": "Basic Materials",
+    "country": "United States",
+    "trend": -0.08
+  },
+  {
+    "ticker": "BP.L",
+    "securityName": "BP PLC",
+    "sector": "Energy",
+    "country": "United Kingdom",
+    "trend": -0.38
+  },
+  {
+    "ticker": "BRK-A",
+    "securityName": "Berkshire Hathaway Inc Class A",
+    "sector": "Financials",
+    "country": "United States",
+    "trend": 0.2
+  },
+  {
+    "ticker": "BRK-B",
+    "securityName": "Berkshire Hathaway Inc Class B",
+    "sector": "Financials",
+    "country": "United States",
+    "trend": 0.2
+  },
+  {
+    "ticker": "BTI",
+    "securityName": "Brittish American Tobacco",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "United States",
+    "trend": 0.29
+  },
+  {
+    "ticker": "C",
+    "securityName": "Citigroup Inc",
+    "sector": "Financials",
+    "country": "United States",
+    "trend": 0.21
+  },
+  {
+    "ticker": "CHTR",
+    "securityName": "Charter Communications Inc",
+    "sector": "Consumer Cyclicals",
+    "country": "United States",
+    "trend": 0.55
+  },
+  {
+    "ticker": "CMCSA",
+    "securityName": "Comcast Corporation",
+    "sector": "Consumer Cyclicals",
+    "country": "United States",
+    "trend": 0.15
+  },
+  {
+    "ticker": "CNA.L",
+    "securityName": "Centrica PLC",
+    "sector": "Utilities",
+    "country": "United Kingdom",
+    "trend": -0.23
+  },
+  {
+    "ticker": "COST",
+    "securityName": "Costco Wholesale Corporation",
+    "sector": "Consumer Cyclicals",
+    "country": "United States",
+    "trend": 0.4
+  },
+  {
+    "ticker": "CRM",
+    "securityName": "SalesForce",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.57
+  },
+  {
+    "ticker": "CSCO",
+    "securityName": "Cisco Systems Inc",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": -0.2
+  },
+  {
+    "ticker": "CVX",
+    "securityName": "Chevron Corporation",
+    "sector": "Energy",
+    "country": "United States",
+    "trend": -0.22
+  },
+  {
+    "ticker": "D",
+    "securityName": "Dominion Energy Inc",
+    "sector": "Utilities",
+    "country": "United States",
+    "trend": 0.3
+  },
+  {
+    "ticker": "DGE.L",
+    "securityName": "Diageo PLC (UK)",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "United Kingdom",
+    "trend": -0.13
+  },
+  {
+    "ticker": "DIS",
+    "securityName": "Walt Disney Company",
+    "sector": "Consumer Cyclicals",
+    "country": "United States",
+    "trend": 0.06
+  },
+  {
+    "ticker": "DUK",
+    "securityName": "Duke Energy Corporation",
+    "sector": "Utilities",
+    "country": "United States",
+    "trend": 0.37
+  },
+  {
+    "ticker": "ECL",
+    "securityName": "Ecolab Inc",
+    "sector": "Basic Materials",
+    "country": "United States",
+    "trend": 0.34
+  },
+  {
+    "ticker": "EXC",
+    "securityName": "Exelon Corporation",
+    "sector": "Utilities",
+    "country": "United States",
+    "trend": 0.23
+  },
+  {
+    "ticker": "FB",
+    "securityName": "Facebook Inc",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.35
+  },
+  {
+    "ticker": "FERG.L",
+    "securityName": "Ferguson PLC",
+    "sector": "Consumer Cyclicals",
+    "country": "United Kingdom",
+    "trend": 0.49
+  },
+  {
+    "ticker": "GOOG",
+    "securityName": "Alphabet Inc Class C",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.53
+  },
+  {
+    "ticker": "GOOGL",
+    "securityName": "Alphabet Inc Class A",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.53
+  },
+  {
+    "ticker": "GSK.L",
+    "securityName": "GlaxoSmithKline",
+    "sector": "Healthcare",
+    "country": "United Kingdom",
+    "trend": -0.15
+  },
+  {
+    "ticker": "HD",
+    "securityName": "Home Depot",
+    "sector": "Consumer Cyclicals",
+    "country": "United States",
+    "trend": 0.34
+  },
+  {
+    "ticker": "HON",
+    "securityName": "Honeywell International",
+    "sector": "Industrials",
+    "country": "United States",
+    "trend": 0.17
+  },
+  {
+    "ticker": "IBM",
+    "securityName": "IBM",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.31
+  },
+  {
+    "ticker": "INF.L",
+    "securityName": "Informa PLC",
+    "sector": "Consumer Cyclicals",
+    "country": "United Kingdom",
+    "trend": -0.16
+  },
+  {
+    "ticker": "INTC",
+    "securityName": "Intel Corp",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.56
+  },
+  {
+    "ticker": "JNJ",
+    "securityName": "Johnson & Johnson",
+    "sector": "Healthcare",
+    "country": "United States",
+    "trend": 0.22
+  },
+  {
+    "ticker": "JPM",
+    "securityName": "JP Morgan",
+    "sector": "Financials",
+    "country": "United States",
+    "trend": 0.31
+  },
+  {
+    "ticker": "KO",
+    "securityName": "Coca-Cola Company",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "United States",
+    "trend": 0.36
+  },
+  {
+    "ticker": "LIN",
+    "securityName": "Linde PNL",
+    "sector": "Basic Materials",
+    "country": "United States",
+    "trend": 0.38
+  },
+  {
+    "ticker": "LLOY.L",
+    "securityName": "Lloyds Banking Group",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "trend": -0.23
+  },
+  {
+    "ticker": "LLY",
+    "securityName": "Eli Lilly And Company",
+    "sector": "Healthcare",
+    "country": "United States",
+    "trend": 0.44
+  },
+  {
+    "ticker": "LMT",
+    "securityName": "Lockheed Martin Corporation",
+    "sector": "Industrials",
+    "country": "United States",
+    "trend": 0.39
+  },
+  {
+    "ticker": "MA",
+    "securityName": "Mastercard Inc",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.59
+  },
+  {
+    "ticker": "MCD",
+    "securityName": "McDonald's Corporation",
+    "sector": "Consumer Cyclicals",
+    "country": "United States",
+    "trend": 0.21
+  },
+  {
+    "ticker": "MCRO.L",
+    "securityName": "Micro Focus International",
+    "sector": "Technology",
+    "country": "United Kingdom",
+    "trend": -0.84
+  },
+  {
+    "ticker": "MDT",
+    "securityName": "Medtronic PLC",
+    "sector": "Healthcare",
+    "country": "United States",
+    "trend": 0.11
+  },
+  {
+    "ticker": "MO",
+    "securityName": "Altria Group Inc",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "United States",
+    "trend": -0.3
+  },
+  {
+    "ticker": "MRK",
+    "securityName": "Merk & Co Inc",
+    "sector": "Healthcare",
+    "country": "United States",
+    "trend": -0.2
+  },
+  {
+    "ticker": "MSFT",
+    "securityName": "Microsoft Corporation",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.67
+  },
+  {
+    "ticker": "NEE",
+    "securityName": "Nextera Energy Inc",
+    "sector": "Utilities",
+    "country": "United States",
+    "trend": 0.53
+  },
+  {
+    "ticker": "NFLX",
+    "securityName": "Netflix Inc",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.64
+  },
+  {
+    "ticker": "NG.L",
+    "securityName": "National Grid PLC",
+    "sector": "Utilities",
+    "country": "United Kingdom",
+    "trend": 0.53
+  },
+  {
+    "ticker": "NKE",
+    "securityName": "Nike Inc",
+    "sector": "Consumer Cyclicals",
+    "country": "United States",
+    "trend": 0.31
+  },
+  {
+    "ticker": "NVS",
+    "securityName": "Novartis",
+    "sector": "Healthcare",
+    "country": "United States",
+    "trend": 0.25
+  },
+  {
+    "ticker": "NXT.L",
+    "securityName": "Next",
+    "sector": "Consumer Cyclicals",
+    "country": "United Kingdom",
+    "trend": 0.29
+  },
+  {
+    "ticker": "OCDO.L",
+    "securityName": "Ocado Group PLC",
+    "sector": "Consumer Cyclicals",
+    "country": "United Kingdom",
+    "trend": -0.42
+  },
+  {
+    "ticker": "ORCL",
+    "securityName": "Oracle Corp",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.07
+  },
+  {
+    "ticker": "PEP",
+    "securityName": "PepsiCo Inc",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "United States",
+    "trend": 0.26
+  },
+  {
+    "ticker": "PFE",
+    "securityName": "Pfizer Inc",
+    "sector": "Healthcare",
+    "country": "United States",
+    "trend": -0.28
+  },
+  {
+    "ticker": "PG",
+    "securityName": "Procter & Gamble Company",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "United States",
+    "trend": 0.15
+  },
+  {
+    "ticker": "PM",
+    "securityName": "Philip Morris International",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "United States",
+    "trend": 0.2
+  },
+  {
+    "ticker": "PRU.L",
+    "securityName": "Prudential PLC",
+    "sector": "Financials",
+    "country": "United Kingdom",
+    "trend": 0.12
+  },
+  {
+    "ticker": "PYPL",
+    "securityName": "PayPal Holdings",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.47
+  },
+  {
+    "ticker": "RDSB.L",
+    "securityName": "Royal Dutch Shell B",
+    "sector": "Energy",
+    "country": "United Kingdom",
+    "trend": -0.67
+  },
+  {
+    "ticker": "RIO",
+    "securityName": "Rio Tinto",
+    "sector": "Basic Materials",
+    "country": "United States",
+    "trend": -0.11
+  },
+  {
+    "ticker": "RIO.L",
+    "securityName": "Rio Tinto (UK)",
+    "sector": "Basic Materials",
+    "country": "United Kingdom",
+    "trend": -0.11
+  },
+  {
+    "ticker": "RY",
+    "securityName": "Royal Bank of Canada",
+    "sector": "Financials",
+    "country": "United States",
+    "trend": 0.09
+  },
+  {
+    "ticker": "SAP",
+    "securityName": "SAP",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.27
+  },
+  {
+    "ticker": "SBUX",
+    "securityName": "Starbucks Corporation",
+    "sector": "Consumer Cyclicals",
+    "country": "United States",
+    "trend": 0.15
+  },
+  {
+    "ticker": "SGE.L",
+    "securityName": "Sage Group PLC",
+    "sector": "Technology",
+    "country": "United Kingdom",
+    "trend": 0.2
+  },
+  {
+    "ticker": "SN.L",
+    "securityName": "Smith & Nephew PLC",
+    "sector": "Healthcare",
+    "country": "United Kingdom",
+    "trend": 0.28
+  },
+  {
+    "ticker": "SO",
+    "securityName": "Souther Company",
+    "sector": "Utilities",
+    "country": "United States",
+    "trend": 0.36
+  },
+  {
+    "ticker": "SSE.L",
+    "securityName": "SSE PLC",
+    "sector": "Utilities",
+    "country": "United Kingdom",
+    "trend": 0.67
+  },
+  {
+    "ticker": "T",
+    "securityName": "AT&T Inc",
+    "sector": "Telecommunications",
+    "country": "United States",
+    "trend": 0.15
+  },
+  {
+    "ticker": "TD",
+    "securityName": "Toronto-Dominion Bank",
+    "sector": "Financials",
+    "country": "United States",
+    "trend": 0.05
+  },
+  {
+    "ticker": "TEF",
+    "securityName": "Telefonica",
+    "sector": "Telecommunications",
+    "country": "United States",
+    "trend": -0.17
+  },
+  {
+    "ticker": "TMO",
+    "securityName": "Thermo Fisher Scientific Inc",
+    "sector": "Healthcare",
+    "country": "United States",
+    "trend": 0.38
+  },
+  {
+    "ticker": "TMUS",
+    "securityName": "T-Mobile US Inc",
+    "sector": "Telecommunications",
+    "country": "United States",
+    "trend": 0.82
+  },
+  {
+    "ticker": "TOT",
+    "securityName": "Total",
+    "sector": "Energy",
+    "country": "United States",
+    "trend": -0.32
+  },
+  {
+    "ticker": "TSCO.L",
+    "securityName": "Tesco PLC",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "United Kingdom",
+    "trend": 0.22
+  },
+  {
+    "ticker": "UL",
+    "securityName": "Unilever PLC",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "United States",
+    "trend": 0.05
+  },
+  {
+    "ticker": "ULVR.L",
+    "securityName": "Unilever PLC (UK)",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "United Kingdom",
+    "trend": -0.01
+  },
+  {
+    "ticker": "UNH",
+    "securityName": "UnitedHealth Group Inc",
+    "sector": "Healthcare",
+    "country": "United States",
+    "trend": 0.5
+  },
+  {
+    "ticker": "UNP",
+    "securityName": "Union Pacific Corporation",
+    "sector": "Industrials",
+    "country": "United States",
+    "trend": 0.19
+  },
+  {
+    "ticker": "UTX",
+    "securityName": "United Technologies Corporation",
+    "sector": "Industrials",
+    "country": "United States",
+    "trend": 0.16
+  },
+  {
+    "ticker": "V",
+    "securityName": "Visa Inc",
+    "sector": "Technology",
+    "country": "United States",
+    "trend": 0.54
+  },
+  {
+    "ticker": "VALE",
+    "securityName": "Vale",
+    "sector": "Basic Materials",
+    "country": "United States",
+    "trend": -0.1
+  },
+  {
+    "ticker": "VOD.L",
+    "securityName": "Vodafone",
+    "sector": "Telecommunications",
+    "country": "United Kingdom",
+    "trend": 0.12
+  },
+  {
+    "ticker": "VZ",
+    "securityName": "Verizon Communications",
+    "sector": "Telecommunications",
+    "country": "United States",
+    "trend": -0.09
+  },
+  {
+    "ticker": "WFC",
+    "securityName": "Wells Fargo & Company",
+    "sector": "Financials",
+    "country": "United States",
+    "trend": -0.25
+  },
+  {
+    "ticker": "WMT",
+    "securityName": "Walmart Inc",
+    "sector": "Consumer Non-Cyclicals",
+    "country": "United States",
+    "trend": 0.08
+  },
+  {
+    "ticker": "WPP.L",
+    "securityName": "WPP PLC",
+    "sector": "Consumer Cyclicals",
+    "country": "United Kingdom",
+    "trend": -0.06
+  },
+  {
+    "ticker": "XOM",
+    "securityName": "Exxon Mobil Corporation",
+    "sector": "Energy",
+    "country": "United States",
+    "trend": -0.57
+  }
+]
