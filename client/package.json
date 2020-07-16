@@ -5,7 +5,7 @@
   "scripts": {
     "start": "parcel public/index.html",
     "clean": "rimraf ./dist",
-    "build": "parcel build public/index.html --target browser"
+    "build": "parcel build public/index.html --target browser --no-minify"
   },
   "keywords": [],
   "author": {
