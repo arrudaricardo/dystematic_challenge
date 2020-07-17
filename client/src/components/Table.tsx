@@ -235,8 +235,8 @@ export default function EnhancedTable({ data }: Props): ReactElement {
                       key={row.securityName}
                     >
                       <TableCell component="th" scope="row" padding="none"> {row.securityName} </TableCell>
-                      <TableCell align="left">{row.country}</TableCell>
                       <TableCell align="left">{row.sector}</TableCell>
+                      <TableCell align="left">{row.country}</TableCell>
                       <TableCell style={genTrendStyle(row.trend * 100)} align="center">{Math.floor(row.trend * 100) + "%"}</TableCell>
                     </TableRow>
                   );
